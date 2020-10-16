@@ -1,3 +1,16 @@
+---
+layout: post
+title: 'JavaScript面试题'
+date: 2020-04-05
+author: 木一橙
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: JavaScript
+---
+
+> JavaScript前端面试题总结.
+
+
+
 #### 1.同源策略
 同源策略可防止 JavaScript 发起跨域请求。源被定义为 URI、主机名和端口号的组合。此策略可防止页面上的恶意脚本通过该页面的文档对象模型，访问另一个网页上的敏感数据。
 
