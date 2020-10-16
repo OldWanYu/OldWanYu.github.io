@@ -1,3 +1,13 @@
+---
+layout: post
+title: 'Typescript基础'
+date: 2020-07-27
+author: 木一橙
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: Typescript
+---
+
+
 # 什么是 TypeScript
 
 首先，我对 TypeScript 的理解如下：
